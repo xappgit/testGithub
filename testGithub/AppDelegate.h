@@ -10,6 +10,7 @@
 //testgit4
 //testgit5
 //testgit6
+//testgit7
 
 #import <Cocoa/Cocoa.h>
 
